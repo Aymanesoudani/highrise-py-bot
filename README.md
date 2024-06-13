@@ -50,7 +50,7 @@ PATH: config/permission.json
     "permissions": [
         {
             "user_id": "change-me",
-            "username": "change-me",
+            "username": "aymane_soudani",
             "permissions": [
                 "emote"
             ]
